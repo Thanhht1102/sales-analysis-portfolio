@@ -4,7 +4,7 @@
 - Doanh thu tập trung ở khu vực nào?
 - Nhóm khách hàng nào mang lại giá trị cao nhất?
 
----
+
 
 ## Dataset
 - Nguồn: dữ liệu bán hàng thực tế
