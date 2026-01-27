@@ -36,8 +36,3 @@
 ## Recommendation
 - Tập trung tuyến có doanh thu cao
 - Giảm tần suất khách giá trị thấp
-
----
-
-## Author
-Thanh Hua
